@@ -1,0 +1,28 @@
+{
+  "name": "filter-bad-words",
+  "version": "1.0.0",
+  "description": "filter bad words",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erwinwahyura/filter-bad-words.git"
+  },
+  "keywords": [
+    "filter",
+    "bad",
+    "word"
+  ],
+  "author": "erwinwahyura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erwinwahyura/filter-bad-words/issues"
+  },
+  "homepage": "https://github.com/erwinwahyura/filter-bad-words#readme",
+  "dependencies": {
+    "bad-words": "^1.5.1",
+    "express": "^4.15.3"
+  }
+}
